@@ -21,6 +21,11 @@ Założenia ćwiczenia:
 - Implementacja pod dowolnym systemem z rodziny Linux
 - Wykorzystanie monitorów
 
+### Kompilacja i uruchamianie
+
+- Kompilacja: ```make```
+- Uruchamianie: ```./build/run```
+
 ### Działanie testowane na:
 
 - Ubuntu 14.04 LTS
